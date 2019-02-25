@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="cal_elem_num">28sp</dimen>
+    <dimen name="cal_elem_focused">40sp</dimen>
+</resources>
